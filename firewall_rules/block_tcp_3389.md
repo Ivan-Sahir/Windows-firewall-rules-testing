@@ -6,6 +6,8 @@ This rule blocks all incoming traffic to TCP port 3389 on the Windows host, prev
 
 To prevent unauthorized Remote Desktop access, which is commonly exploited for lateral movement, brute-force attacks, or unauthorized remote control.
 
+<img width="441" height="589" alt="{46D20CBD-2A24-48FF-8A21-8CC765B742B3}" src="https://github.com/user-attachments/assets/5c0a50f5-ac47-4d46-9dfc-fb41da90ddec" />
+
 # Expected Behavior
 
 - When scanning the Windows host from the VM, port 3389 will appear as **filtered** or **closed**.
