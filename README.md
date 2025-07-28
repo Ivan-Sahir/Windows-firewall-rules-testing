@@ -13,7 +13,7 @@ I made this project to create and test custom Windows Defender Firewall rules us
 # Rules Covered
 
 - Block ICMP Echo Requests
-- Block TCP port 445
+- Block TCP port 3389
 - Block all traffic from VM's IP
 
 # VM Setup
