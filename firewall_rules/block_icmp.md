@@ -6,6 +6,8 @@ This rule blocks all incoming ICMP Echo Requests (ping requests) to the Windows 
 
 To increase security by disabling ping replies, which can reduce host visibility on the network.
 
+<img width="443" height="592" alt="{1C190F53-29DA-4022-A1BA-DCF3B1ABBE77}" src="https://github.com/user-attachments/assets/5878e954-d092-46a9-ab05-dcaa50318d7f" />
+
 
 # Expected Behavior
 
